@@ -1,4 +1,4 @@
-# 🕷️ Scraper de Blog Angular con Puppeteer
+# 🕷️ Scraping de Blog Angular con Puppeteer
 
 Este proyecto utiliza [Puppeteer](https://pptr.dev/) para automatizar la navegación en el sitio [blog.angular.dev](https://blog.angular.dev) y extraer información de los artículos publicados.
 
@@ -21,4 +21,6 @@ Los resultados se guardan automáticamente en tres formatos:
 
 ```bash
 git clone https://github.com/AlexanderGarcia27/Scrapin-Angular.git
-cd Scrapin-Angular
+cd practica 4
+npm start
+
