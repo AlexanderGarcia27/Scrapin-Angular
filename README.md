@@ -21,6 +21,6 @@ Los resultados se guardan automáticamente en tres formatos:
 
 ```bash
 git clone https://github.com/AlexanderGarcia27/Scrapin-Angular.git
-cd practica 4
+cd Scrapin-Angular
 npm start
 
